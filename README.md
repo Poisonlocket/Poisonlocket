@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Poisonlocket
-- 👀 I’m interested in Chess
-- 🌱 I’m currently learning Js and MariaDB and php
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me here on github :D or discord
+Poisonlocket@Debian:~/Documents/script$ sudo ./Introduction_file
+[sudo] password for Poisonlocket: ***********
+Initializing ./Software-dev-script.txt [######......]
+Successfully Loaded!
 
-<!---
-Poisonlocket/Poisonlocket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Introduction_file> Welcome everyone im a Swiss Developer and so far i have been working with Python, Html, Css and various Sequel Databases like mysql and mariadb
