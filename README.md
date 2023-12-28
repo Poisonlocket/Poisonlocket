@@ -13,7 +13,7 @@ I've been Coding for close to half a decade now
 * 🧠  I'm learning Javascipt, Node, Flask and general System & Linux related stuff
 * 🤝  I'm open to collaborating on Python Projects, Open Source and much more just reach out
 * ⚡  Contact me via discord if you have any inquiry
-
+* 🔗  Currently Coding with [Saalim Baba](http://github.com/milaashd)
 ### Skills
 
 
