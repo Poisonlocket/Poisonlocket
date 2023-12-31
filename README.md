@@ -1,7 +1,7 @@
 Hi 👋 My name is Lori / Poisonlocket
 ====================================
 
-Software Engineer / Fullstack Developer
+Software Engineer / Fullstack Developer / IT-Student
 ---------------------------------------
 
 I've been Coding for close to half a decade now
