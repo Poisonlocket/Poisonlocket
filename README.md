@@ -14,6 +14,7 @@ I've been Coding for close to half a decade now
 * 🤝  I'm open to collaborating on Python Projects, Open Source and much more just reach out
 * ⚡  Contact me via discord if you have any inquiry
 * 🔗  Currently Coding with [Saalim Baba](http://github.com/milaashd)
+* 💭  Best Memories at [Baselhack 2023](https://www.linkedin.com/posts/baselhack_rapidprototyping-baselhack-baselhackathon2023-activity-7124368367662043136-XK7z?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy) so far
 ### Skills
 
 
