@@ -9,7 +9,7 @@ I've been Coding for close to half a decade now
 * 🌍  I'm based in Switzerland
 * 🖥️  See my portfolio at [bonomettil.ch (rework in progress)](http://bonomettil.ch)
 * 📩  Contact me @ [lorenzo@bonomettil.ch](mailto:lorenzo@bonomettil.ch)
-* 🚀  I'm currently working on [Astro-Intro](https://github.com/Poisonlocket/Astro-Intro) 
+* 🚀  I'm currently working on [IMS-HUB](https://github.com/IMS-HUB) 
 * 🛠️  I'm currently working with [Swisshub](swisshub.gg) one of the biggest swiss discord servers
 * 🧠  I'm learning Javascipt, Node, Flask and general System & Linux related stuff
 * 🤝  I'm open to collaborating on Python Projects, Open Source and much more just reach out
