@@ -11,9 +11,10 @@ I've been Coding for close to half a decade now
 * 📩  Contact me @ [lorenzo@bonomettil.ch](mailto:lorenzo@bonomettil.ch)
 * 🚀  I'm currently working on [IMS-HUB](https://github.com/IMS-HUB) 
 * 🛠️  I'm currently working at [Swisshub](swisshub.gg) one of the biggest swiss discord servers
-* 🧠  I'm learning Javascipt, Node, Flask and general System & Linux related stuff
+* 🧠  I'm learning Javascipt, Node, FastApi and general System & Linux related stuff
 * 🤝  I'm open to collaborating on Python Projects, Open Source and much more just reach out
 * ⚡  Contact me via discord if you have any inquiry
+* 🛡️  Cybersecurity Fan
 * 💭  Best Memories at [Baselhack 2023](https://www.linkedin.com/posts/baselhack_rapidprototyping-baselhack-baselhackathon2023-activity-7124368367662043136-XK7z?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy) so far
 ### Skills
 
