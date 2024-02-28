@@ -10,7 +10,7 @@ I've been Coding for close to half a decade now
 * 🖥️  See my portfolio at [bonomettil.ch (rework in progress)](http://bonomettil.ch)
 * 📩  Contact me @ [lorenzo@bonomettil.ch](mailto:lorenzo@bonomettil.ch)
 * 🚀  I'm currently working on [IMS-HUB](https://github.com/IMS-HUB) 
-* 🛠️  I'm currently working with [Swisshub](swisshub.gg) one of the biggest swiss discord servers
+* 🛠️  I'm currently working at [Swisshub](swisshub.gg) one of the biggest swiss discord servers
 * 🧠  I'm learning Javascipt, Node, Flask and general System & Linux related stuff
 * 🤝  I'm open to collaborating on Python Projects, Open Source and much more just reach out
 * ⚡  Contact me via discord if you have any inquiry
