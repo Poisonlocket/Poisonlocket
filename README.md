@@ -32,10 +32,13 @@ I've been Coding for close to half a decade now
 
 <b>My GitHub Stats</b>
 <p>
+  
   <a href="http://www.github.com/Poisonlocket"><img src="https://github-readme-stats.vercel.app/api?username=Poisonlocket&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=84cc16&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="Poisonlocket's GitHub stats" />   </a>
 
 
   <a href="http://www.github.com/Poisonlocket"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Poisonlocket&stroke=84cc16&background=000000&ring=84cc16&fire=84cc16&currStreakNum=84cc16&currStreakLabel=84cc16&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a></p>
+
+  [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=poisonlocket&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 # A picture of my current Arch-Gnome Rice
