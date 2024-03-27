@@ -23,3 +23,4 @@ jobs:
           CODE_LANG: python
           LANG_COUNT: 10
           TARGET_BRANCH: main
+          REPOSITORY: repos/Poisonlocket/Poisonlocket
