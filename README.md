@@ -4,7 +4,7 @@ Hi 👋 My name is Lori / Poisonlocket
 Software Engineer / Fullstack Developer / IT-Student
 ---------------------------------------
 
-I've been Coding for close to half a decade now
+I've been Coding for almost half a decade
 
 * 🌍  I'm based in Switzerland
 * 🖥️  See my portfolio at [bonomettil.ch (rework in progress)](http://bonomettil.ch)
