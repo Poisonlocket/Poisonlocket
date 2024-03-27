@@ -20,5 +20,5 @@ jobs:
           SHOW_TIME:	true
           SHOW_TOTAL: true
           BLOCKS: ->
-          CODE_LANG: lua
+          CODE_LANG: python
           LANG_COUNT: 10
