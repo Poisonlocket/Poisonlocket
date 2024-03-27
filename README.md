@@ -39,7 +39,8 @@ I've been Coding for close to half a decade now
   <a href="http://www.github.com/Poisonlocket"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Poisonlocket&stroke=84cc16&background=000000&ring=84cc16&fire=84cc16&currStreakNum=84cc16&currStreakLabel=84cc16&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a></p>
 
   [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=poisonlocket&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 # A picture of my current Arch-Gnome Rice
 ![Screenshot from 2024-01-01 00-04-39](https://github.com/Poisonlocket/Poisonlocket/assets/128643203/a845121e-ca89-4ad4-84b3-973215ac44a2)
