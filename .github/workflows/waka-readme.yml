@@ -24,3 +24,4 @@ jobs:
           LANG_COUNT: 10
           TARGET_BRANCH: main
           REPOSITORY: repos/Poisonlocket/Poisonlocket
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
