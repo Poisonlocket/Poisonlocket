@@ -42,6 +42,24 @@ I've been Coding for almost half a decade
   
   
 <!--START_SECTION:waka-->
+
+```python
+From: 11 June 2023 - To: 26 March 2024
+
+Total Time: 222 hrs 35 mins
+
+HTML                  75 hrs 24 mins  >>>>>>>>-----------------   33.87 %
+Python                69 hrs 9 mins   >>>>>>>>-----------------   31.07 %
+JavaScript            22 hrs 29 mins  >>>----------------------   10.10 %
+CSS                   21 hrs 20 mins  >>-----------------------   09.58 %
+TypeScript            8 hrs 53 mins   >------------------------   04.00 %
+Markdown              7 hrs 22 mins   >------------------------   03.31 %
+Bash                  4 hrs 11 mins   -------------------------   01.88 %
+GitIgnore file        2 hrs 34 mins   -------------------------   01.16 %
+Astro                 2 hrs 3 mins    -------------------------   00.92 %
+SQL                   2 hrs 2 mins    -------------------------   00.91 %
+```
+
 <!--END_SECTION:waka-->
 
 
