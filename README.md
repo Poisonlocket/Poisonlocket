@@ -44,20 +44,20 @@ I've been Coding for almost half a decade
 <!--START_SECTION:waka-->
 
 ```python
-From: 27 February 2024 - To: 28 March 2024
+From: 28 February 2024 - To: 29 March 2024
 
-Total Time: 24 hrs 6 mins
+Total Time: 26 hrs 6 mins
 
-Python           14 hrs 28 mins  >>>>>>>>>>>>>>>----------   60.04 %
-Markdown         3 hrs 4 mins    >>>----------------------   12.77 %
-SQL              2 hrs 2 mins    >>-----------------------   08.44 %
-TypeScript       1 hr 1 min      >------------------------   04.27 %
-JavaScript       49 mins         >------------------------   03.44 %
-GitIgnore file   30 mins         >------------------------   02.08 %
-YAML             30 mins         >------------------------   02.07 %
-TSConfig         26 mins         -------------------------   01.81 %
-HTML             23 mins         -------------------------   01.65 %
-JSON             9 mins          -------------------------   00.68 %
+Python           13 hrs 54 mins  >>>>>>>>>>>>>------------   53.26 %
+TypeScript       3 hrs 33 mins   >>>----------------------   13.61 %
+Markdown         3 hrs 4 mins    >>>----------------------   11.80 %
+SQL              2 hrs 2 mins    >>-----------------------   07.79 %
+JavaScript       49 mins         >------------------------   03.19 %
+TSConfig         33 mins         >------------------------   02.16 %
+YAML             30 mins         -------------------------   01.92 %
+GitIgnore file   29 mins         -------------------------   01.89 %
+HTML             23 mins         -------------------------   01.52 %
+JSON             10 mins         -------------------------   00.69 %
 ```
 
 <!--END_SECTION:waka-->
