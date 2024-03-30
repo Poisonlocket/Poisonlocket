@@ -22,6 +22,6 @@ jobs:
           CODE_LANG: python
           LANG_COUNT: 10
           REPOSITORY: Poisonlocket/Poisonlocket
-          IGNORED_LANGUAGES: "GitIgnore_file"
+          IGNORED_LANGUAGES: TOML "GitIgnore file"
           TIME_RANGE: last_30_days
           
