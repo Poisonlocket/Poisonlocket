@@ -9,10 +9,10 @@ I've been Coding for almost half a decade
 * 🌍  I'm based in Switzerland
 * 🖥️  See my portfolio at [bonomettil.ch (rework in progress)](http://bonomettil.ch)
 * 📩  Contact me @ [lorenzo@bonomettil.ch](mailto:lorenzo@bonomettil.ch)
-* 🚀  I'm currently working on [ISCZ](https://github.com/IMS-HUB) 
-* 🛠️  I'm currently working at [Swisshub](swisshub.gg) one of the biggest swiss discord servers
-* 🧠  I'm learning Javascipt, Node, FastApi and general System & Linux related stuff
-* 🤝  I'm open to collaborating on Python Projects, Open Source and much more just reach out
+* 🚀  Currently i'm working on [ISCZ](https://github.com/IMS-HUB) 
+* 🛠️  I'm currently developing at [Swisshub](swisshub.gg) one of the biggest swiss discord servers
+* 🧠  I'm learning Javascipt, GO and playing a bit around with FastAPI and Linux
+* 🤝  Feel free to reach out to me if you are looking to build a Project together
 * ⚡  Contact me via discord if you have any inquiry
 * 🛡️  Cybersecurity Fan | currently competing in the Swiss Hacking Challenge Qualifiers of 2024
 * 💭  Best Memories at [Baselhack 2023](https://www.linkedin.com/posts/baselhack_rapidprototyping-baselhack-baselhackathon2023-activity-7124368367662043136-XK7z?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy) so far
