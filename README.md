@@ -47,20 +47,20 @@ I've been Coding for almost half a decade
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 March 2024 - To: 20 April 2024
+From: 22 March 2024 - To: 21 April 2024
 
-Total Time: 61 hrs 46 mins
+Total Time: 60 hrs 30 mins
 
-TypeScript       33 hrs 39 mins  >>>>>>>>>>>>>>-----------   54.48 %
-JavaScript       11 hrs 47 mins  >>>>>--------------------   19.08 %
-Python           7 hrs 53 mins   >>>----------------------   12.78 %
-JSON             2 hrs 16 mins   >------------------------   03.69 %
-Markdown         1 hr 20 mins    >------------------------   02.18 %
-HTML             48 mins         -------------------------   01.30 %
-Go               45 mins         -------------------------   01.23 %
-YAML             43 mins         -------------------------   01.17 %
-CSS              38 mins         -------------------------   01.03 %
+TypeScript       33 hrs 39 mins  >>>>>>>>>>>>>>-----------   55.63 %
+JavaScript       11 hrs 33 mins  >>>>>--------------------   19.11 %
+Python           7 hrs 21 mins   >>>----------------------   12.15 %
+JSON             2 hrs 16 mins   >------------------------   03.77 %
+Markdown         1 hr 20 mins    >------------------------   02.22 %
+Go               45 mins         -------------------------   01.26 %
+YAML             43 mins         -------------------------   01.19 %
+HTML             35 mins         -------------------------   00.99 %
 TSConfig         33 mins         -------------------------   00.91 %
+CSS              31 mins         -------------------------   00.86 %
 ```
 
 <!--END_SECTION:waka-->
