@@ -1,4 +1,4 @@
-Hi 👋 My name is Lori / Poisonlocket
+Hi 👋 My name is Lori 
 ====================================
 
 Software Engineer / Fullstack Developer / IT-Student
