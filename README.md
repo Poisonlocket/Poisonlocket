@@ -47,20 +47,20 @@ I've been Coding for almost half a decade
 <!--START_SECTION:waka-->
 
 ```python
-From: 15 April 2024 - To: 15 May 2024
+From: 16 April 2024 - To: 16 May 2024
 
-Total Time: 50 hrs 52 mins
+Total Time: 47 hrs 22 mins
 
-TypeScript          12 hrs 45 mins  >>>>>>-------------------   25.09 %
-JavaScript          8 hrs 58 mins   >>>>---------------------   17.64 %
-Python              8 hrs 18 mins   >>>>---------------------   16.33 %
-Go                  4 hrs 59 mins   >>-----------------------   09.82 %
-YAML                4 hrs 33 mins   >>-----------------------   08.95 %
-Markdown            4 hrs 16 mins   >>-----------------------   08.39 %
-HTML                2 hrs 8 mins    >------------------------   04.20 %
-JSON                1 hr 10 mins    >------------------------   02.31 %
-Dockerfile          45 mins         -------------------------   01.49 %
-Docker              42 mins         -------------------------   01.41 %
+TypeScript          10 hrs 42 mins  >>>>>>-------------------   22.61 %
+Python              8 hrs 18 mins   >>>>---------------------   17.53 %
+JavaScript          7 hrs 37 mins   >>>>---------------------   16.07 %
+Go                  5 hrs 11 mins   >>>----------------------   10.95 %
+Markdown            4 hrs 24 mins   >>-----------------------   09.31 %
+YAML                4 hrs 20 mins   >>-----------------------   09.15 %
+HTML                2 hrs 7 mins    >------------------------   04.50 %
+JSON                59 mins         >------------------------   02.09 %
+Dockerfile          45 mins         -------------------------   01.60 %
+Docker              42 mins         -------------------------   01.51 %
 ```
 
 <!--END_SECTION:waka-->
