@@ -16,6 +16,9 @@ I've been Coding for almost half a decade
 * ⚡  Contact me via discord if you have any inquiry
 * 🛡️  Cybersecurity Fan | currently competing in the Swiss Hacking Challenge Qualifiers of 2024
 * 💭  Best Memories at [Baselhack 2023](https://www.linkedin.com/posts/baselhack_rapidprototyping-baselhack-baselhackathon2023-activity-7124368367662043136-XK7z?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy) so far
+
+## Just remember [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
+
 ### Skills
 
 
