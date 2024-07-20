@@ -8,7 +8,7 @@ I've been Coding for almost half a decade
 
 * 🌍  I'm based in Switzerland
 * 🖥️  Check out my portfolio at [bonomettil.dev](http://bonomettil.dev)
-* 📩  Contact me @ [lorenzo@bonomettil.ch](mailto:lorenzo@bonomettil.ch)
+* 📩  Contact me @ [lorenzo@bonomettil.dev](mailto:lorenzo@bonomettil.dev)
 * 🚀  Currently i'm working on [ISCZ](https://github.com/IMS-HUB) 
 * 🛠️  I'm currently developing at [Swisshub](swisshub.gg) one of the biggest swiss discord servers
 * 🧠  I'm learning Javascipt, GO and playing a bit around with FastAPI and Linux
