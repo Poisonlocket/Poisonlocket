@@ -7,7 +7,7 @@ Fullstack Developer / IT-Student
 I've been Coding for almost half a decade
 
 * 🌍  I'm based in Switzerland
-* 🖥️  See my portfolio at [bonomettil.ch](http://bonomettil.ch)
+* 🖥️  Check out my portfolio at [bonomettil.dev](http://bonomettil.dev)
 * 📩  Contact me @ [lorenzo@bonomettil.ch](mailto:lorenzo@bonomettil.ch)
 * 🚀  Currently i'm working on [ISCZ](https://github.com/IMS-HUB) 
 * 🛠️  I'm currently developing at [Swisshub](swisshub.gg) one of the biggest swiss discord servers
