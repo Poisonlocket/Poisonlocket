@@ -50,20 +50,20 @@ I've been Coding for almost half a decade
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 June 2024 - To: 18 July 2024
+From: 19 June 2024 - To: 19 July 2024
 
-Total Time: 18 hrs 9 mins
+Total Time: 16 hrs 8 mins
 
-Go               7 hrs 19 mins   >>>>>>>>>>---------------   40.37 %
-Markdown         3 hrs 1 min     >>>>---------------------   16.62 %
-Python           2 hrs 17 mins   >>>----------------------   12.65 %
-JavaScript       1 hr 6 mins     >>-----------------------   06.07 %
-Astro            58 mins         >------------------------   05.38 %
-Bash             47 mins         >------------------------   04.39 %
-TypeScript       42 mins         >------------------------   03.92 %
-SQL              32 mins         >------------------------   02.94 %
-HTML             24 mins         >------------------------   02.24 %
-Shell Script     20 mins         -------------------------   01.84 %
+Go               7 hrs 19 mins   >>>>>>>>>>>--------------   45.43 %
+Markdown         2 hrs 17 mins   >>>>---------------------   14.24 %
+Python           2 hrs 16 mins   >>>>---------------------   14.06 %
+JavaScript       1 hr 6 mins     >>-----------------------   06.82 %
+Astro            58 mins         >>-----------------------   06.05 %
+TypeScript       36 mins         >------------------------   03.76 %
+SQL              32 mins         >------------------------   03.31 %
+HTML             20 mins         >------------------------   02.15 %
+go.mod           12 mins         -------------------------   01.27 %
+GitIgnore file   10 mins         -------------------------   01.05 %
 ```
 
 <!--END_SECTION:waka-->
