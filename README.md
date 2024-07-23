@@ -50,12 +50,12 @@ I've been Coding for almost half a decade
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 June 2024 - To: 20 July 2024
+From: 21 June 2024 - To: 21 July 2024
 
 Total Time: 16 hrs 9 mins
 
-Go               7 hrs 19 mins   >>>>>>>>>>>--------------   45.37 %
-Markdown         2 hrs 17 mins   >>>>---------------------   14.22 %
+Go               7 hrs 19 mins   >>>>>>>>>>>--------------   45.38 %
+Markdown         2 hrs 17 mins   >>>>---------------------   14.21 %
 Python           2 hrs 16 mins   >>>>---------------------   14.04 %
 JavaScript       1 hr 6 mins     >>-----------------------   06.82 %
 Astro            58 mins         >>-----------------------   06.05 %
