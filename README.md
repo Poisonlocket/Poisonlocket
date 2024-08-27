@@ -51,20 +51,20 @@ I've been Coding for almost half a decade
 <!--START_SECTION:waka-->
 
 ```python
-From: 25 July 2024 - To: 24 August 2024
+From: 26 July 2024 - To: 25 August 2024
 
-Total Time: 19 hrs 40 mins
+Total Time: 21 hrs 21 mins
 
-Python                4 hrs 47 mins   >>>>>>-------------------   24.35 %
-Go                    4 hrs 36 mins   >>>>>>-------------------   23.37 %
-Markdown              3 hrs 1 min     >>>>---------------------   15.40 %
-Vue.js                1 hr 55 mins    >>-----------------------   09.78 %
-TypeScript            1 hr 31 mins    >>-----------------------   07.74 %
-JavaScript            55 mins         >------------------------   04.70 %
-CSS                   46 mins         >------------------------   03.93 %
-Docker                27 mins         >------------------------   02.31 %
-Astro                 22 mins         -------------------------   01.89 %
-GitIgnore file        17 mins         -------------------------   01.45 %
+Python                4 hrs 47 mins   >>>>>>-------------------   22.45 %
+Go                    4 hrs 36 mins   >>>>>--------------------   21.55 %
+Markdown              3 hrs 1 min     >>>>---------------------   14.20 %
+Vue.js                1 hr 55 mins    >>-----------------------   09.01 %
+JavaScript            1 hr 46 mins    >>-----------------------   08.30 %
+TypeScript            1 hr 31 mins    >>-----------------------   07.13 %
+CSS                   46 mins         >------------------------   03.63 %
+Docker                27 mins         >------------------------   02.13 %
+JSON                  24 mins         -------------------------   01.94 %
+Astro                 22 mins         -------------------------   01.74 %
 ```
 
 <!--END_SECTION:waka-->
