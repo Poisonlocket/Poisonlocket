@@ -19,7 +19,7 @@ I've been Coding for almost half a decade
 * 👑  Pnpm for the Win
 
 # Just remember [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
-
+## just remember, friday is push to Prod day :)
 ### Skills
 
 
