@@ -51,19 +51,19 @@ I've been Coding for almost half a decade
 <!--START_SECTION:waka-->
 
 ```python
-From: 05 September 2024 - To: 05 October 2024
+From: 06 September 2024 - To: 06 October 2024
 
-Total Time: 11 hrs 38 mins
+Total Time: 13 hrs 5 mins
 
-Python           9 hrs 52 mins   >>>>>>>>>>>>>>>>>>>>>----   84.84 %
-Text             29 mins         >------------------------   04.21 %
-Markdown         29 mins         >------------------------   04.17 %
-.env file        10 mins         -------------------------   01.50 %
-HTML             7 mins          -------------------------   01.03 %
-TypeScript       4 mins          -------------------------   00.64 %
-Dart             3 mins          -------------------------   00.51 %
-JavaScript       3 mins          -------------------------   00.44 %
-Bash             2 mins          -------------------------   00.40 %
+Python           11 hrs 12 mins  >>>>>>>>>>>>>>>>>>>>>----   85.72 %
+Text             35 mins         >------------------------   04.54 %
+Markdown         29 mins         >------------------------   03.71 %
+.env file        10 mins         -------------------------   01.34 %
+HTML             7 mins          -------------------------   00.91 %
+TypeScript       4 mins          -------------------------   00.57 %
+Dart             3 mins          -------------------------   00.46 %
+JavaScript       3 mins          -------------------------   00.39 %
+Bash             2 mins          -------------------------   00.36 %
 ```
 
 <!--END_SECTION:waka-->
