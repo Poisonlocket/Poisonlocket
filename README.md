@@ -51,7 +51,7 @@ I've been Coding for almost half a decade
 <!--START_SECTION:waka-->
 
 ```python
-From: 14 September 2024 - To: 14 October 2024
+From: 16 September 2024 - To: 16 October 2024
 
 Total Time: 15 hrs 25 mins
 
