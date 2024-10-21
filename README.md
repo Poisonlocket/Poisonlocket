@@ -4,7 +4,7 @@ Hi 👋 My name is Lori
 Fullstack Developer / IT-Student
 ---------------------------------------
 
-I've been Coding for almost half a decade
+[![forthebadge](https://forthebadge.com/images/badges/coffee-first-meetings-later.svg)](https://forthebadge.com)
 
 * 🌍  I'm based in Switzerland
 * 🖥️  Check out my portfolio at [bonomettil.dev](http://bonomettil.dev)
