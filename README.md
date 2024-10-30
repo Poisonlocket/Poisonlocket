@@ -10,7 +10,7 @@ Fullstack Developer / IT-Student
 * 🖥️  Check out my portfolio at [bonomettil.dev](http://bonomettil.dev)
 * 📩  Contact me @ [lorenzo@bonomettil.dev](mailto:lorenzo@bonomettil.dev)
 * 🚀  Currently i'm working on various small projects
-* 🛠️  I'm currently developing at [Swisshub](swisshub.gg) one of the biggest swiss discord servers
+* 🛠️  I'm currently developing at [Swisshub](https://github.com/SwissHub-Development/Readme) one of the biggest swiss discord servers
 * 🧠  I'm learning Javascipt, GO and playing a bit around with FastAPI and Linux
 * 🤝  Feel free to reach out to me if you are looking to build a Project together
 * ⚡  Contact me via discord if you have any inquiry
