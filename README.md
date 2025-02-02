@@ -51,19 +51,19 @@ Fullstack Developer / IT-Student
 <!--START_SECTION:waka-->
 
 ```python
-From: 31 December 2024 - To: 30 January 2025
+From: 01 January 2025 - To: 31 January 2025
 
-Total Time: 10 hrs 9 mins
+Total Time: 9 hrs 22 mins
 
-TypeScript       6 hrs 22 mins   >>>>>>>>>>>>>>>>---------   62.72 %
-Python           51 mins         >>-----------------------   08.44 %
-Markdown         32 mins         >------------------------   05.26 %
-JavaScript       30 mins         >------------------------   05.08 %
-Shell Script     21 mins         >------------------------   03.58 %
-Docker           17 mins         >------------------------   02.87 %
-JSON             15 mins         >------------------------   02.56 %
-HTML             12 mins         >------------------------   02.03 %
-Go               11 mins         -------------------------   01.91 %
+TypeScript       5 hrs 34 mins   >>>>>>>>>>>>>>>----------   59.57 %
+Python           51 mins         >>-----------------------   09.15 %
+Markdown         32 mins         >------------------------   05.71 %
+JavaScript       30 mins         >------------------------   05.50 %
+Shell Script     21 mins         >------------------------   03.88 %
+Docker           17 mins         >------------------------   03.11 %
+JSON             15 mins         >------------------------   02.78 %
+HTML             12 mins         >------------------------   02.20 %
+Go               11 mins         >------------------------   02.07 %
 ```
 
 <!--END_SECTION:waka-->
