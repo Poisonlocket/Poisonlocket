@@ -9,13 +9,10 @@ Fullstack Developer / IT-Student
 * 🌍  I'm based in Switzerland
 * 🖥️  Check out my portfolio at [bonomettil.dev](http://bonomettil.dev)
 * 📩  Contact me @ [lorenzo@bonomettil.dev](mailto:lorenzo@bonomettil.dev)
-* 🚀  Currently i'm working on various small projects
-* 🛠️  I'm currently developing at [Swisshub](https://github.com/SwissHub-Development/Readme) one of the biggest swiss discord servers
-* 🧠  I'm learning Javascipt, GO and playing a bit around with FastAPI and Linux
+* 🚀  Currently i'm working on Sproutly, my IDPA 🌱
+* 🧠  I'm learning Typescript, GO and playing a bit around with Traefik and Linux
 * 🤝  Feel free to reach out to me if you are looking to build a Project together
-* ⚡  Contact me via discord if you have any inquiry
-* 🛡️  Cybersecurity Fan | competed in the Swiss Hacking Challenge Qualifiers of 2024
-* 💭  Best Memories at [Baselhack 2023](https://www.linkedin.com/posts/baselhack_rapidprototyping-baselhack-baselhackathon2023-activity-7124368367662043136-XK7z?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy) so far
+* 🛡️  Cybersecurity Fan
 * 👑  Pnpm for the Win
 
 # Just remember [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
