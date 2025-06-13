@@ -1,4 +1,4 @@
-Hi 👋 My name is Lori 
+Hi 👋 I am Lorenzo
 ====================================
 
 Fullstack Developer / IT-Student
