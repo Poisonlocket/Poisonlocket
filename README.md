@@ -48,18 +48,18 @@ Fullstack Developer / IT-Student
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 June 2025 - To: 29 July 2025
+From: 30 June 2025 - To: 30 July 2025
 
-Total Time: 26 hrs 18 mins
+Total Time: 25 hrs 44 mins
 
-Astro               13 hrs 54 mins  >>>>>>>>>>>>>------------   52.84 %
-TypeScript          5 hrs 36 mins   >>>>>--------------------   21.30 %
-Python              2 hrs 5 mins    >>-----------------------   07.98 %
-JSON                1 hr 35 mins    >>-----------------------   06.07 %
-Markdown            1 hr 23 mins    >------------------------   05.30 %
-CSS                 48 mins         >------------------------   03.08 %
-Image (svg)         19 mins         -------------------------   01.26 %
-JavaScript          4 mins          -------------------------   00.30 %
+Astro               13 hrs 34 mins  >>>>>>>>>>>>>------------   52.73 %
+TypeScript          5 hrs 27 mins   >>>>>--------------------   21.18 %
+Python              2 hrs 5 mins    >>-----------------------   08.15 %
+JSON                1 hr 32 mins    >------------------------   05.97 %
+Markdown            1 hr 23 mins    >------------------------   05.41 %
+CSS                 48 mins         >------------------------   03.14 %
+Image (svg)         19 mins         -------------------------   01.28 %
+JavaScript          3 mins          -------------------------   00.22 %
 DockerIgnore file   3 mins          -------------------------   00.21 %
 ```
 
