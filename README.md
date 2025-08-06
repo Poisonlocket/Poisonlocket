@@ -48,7 +48,7 @@ Fullstack Developer / IT-Student
 <!--START_SECTION:waka-->
 
 ```python
-From: 04 July 2025 - To: 03 August 2025
+From: 05 July 2025 - To: 04 August 2025
 
 Total Time: 10 hrs 27 mins
 
@@ -57,7 +57,7 @@ Python              2 hrs 5 mins    >>>>>--------------------   20.07 %
 Markdown            46 mins         >>-----------------------   07.47 %
 JSON                25 mins         >------------------------   04.00 %
 Image (svg)         19 mins         >------------------------   03.16 %
-TypeScript          7 mins          -------------------------   01.24 %
+TypeScript          7 mins          -------------------------   01.25 %
 DockerIgnore file   3 mins          -------------------------   00.52 %
 go.mod              2 mins          -------------------------   00.32 %
 Go                  1 min           -------------------------   00.31 %
