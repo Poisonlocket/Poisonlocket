@@ -9,10 +9,10 @@ Fullstack Developer / IT-Student
 * 🌍  I'm based in Switzerland
 * 🖥️  Check out my portfolio at [bonomettil.dev](http://bonomettil.dev)
 * 📩  Contact me @ [lorenzo@bonomettil.dev](mailto:lorenzo@bonomettil.dev)
-* 🚀  Currently i'm working on Sproutly, my IDPA 🌱
-* 🧠  I'm learning Typescript, GO and playing a bit around with Traefik and Linux
+* 🚀  Currently i'm working on some startup ideas and other cool stuff
+* 🧠  I'm learning Typescript, playing around with go and just go after whatever interests me.
 * 🤝  Feel free to reach out to me if you are looking to build a Project together
-* 🛡️  Cybersecurity Fan
+* 🛡️  Selfhost and protect your own infra, fight vendor lock in ^^ :)
 * 👑  Pnpm for the Win
 
 # Just remember [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
