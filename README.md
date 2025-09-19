@@ -1,7 +1,7 @@
 Hi 👋 I am Lorenzo
 ====================================
 
-Fullstack Developer / IT-Student
+Fullstack Developer, Duck Enthusiast
 ---------------------------------------
 
 [![forthebadge](https://forthebadge.com/images/badges/coffee-first-meetings-later.svg)](https://forthebadge.com)
@@ -65,5 +65,4 @@ textmate         0 secs          -------------------------   00.01 %
 <!--END_SECTION:waka-->
 
 
-# A picture of my current Arch-Gnome Rice
-![Screenshot from 2024-01-01 00-04-39](https://github.com/Poisonlocket/Poisonlocket/assets/128643203/a845121e-ca89-4ad4-84b3-973215ac44a2)
+# Update on my Arch system coming soon (maybe if i remember)
