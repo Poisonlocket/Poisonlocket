@@ -48,11 +48,13 @@ Fullstack Developer, Duck Enthusiast
 <!--START_SECTION:waka-->
 
 ```python
-From: 31 October 2025 - To: 30 November 2025
+From: 01 November 2025 - To: 01 December 2025
 
-Total Time: 1 hr 36 mins
+Total Time: 3 hrs 24 mins
 
-Python           1 hr 36 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Python           3 hrs 16 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.92 %
+Markdown         6 mins          >------------------------   03.13 %
+Text             1 min           -------------------------   00.95 %
 ```
 
 <!--END_SECTION:waka-->
