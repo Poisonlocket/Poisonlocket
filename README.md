@@ -48,19 +48,19 @@ Fullstack Developer, Duck Enthusiast
 <!--START_SECTION:waka-->
 
 ```python
-From: 07 November 2025 - To: 07 December 2025
+From: 08 November 2025 - To: 08 December 2025
 
-Total Time: 8 hrs 4 mins
+Total Time: 8 hrs 40 mins
 
-Python           3 hrs 55 mins   >>>>>>>>>>>>-------------   48.55 %
-TypeScript       1 hr 15 mins    >>>>---------------------   15.63 %
-Markdown         1 hr            >>>----------------------   12.48 %
-Astro            46 mins         >>-----------------------   09.59 %
-JSON             19 mins         >------------------------   04.07 %
-CSS              14 mins         >------------------------   02.97 %
-Text             12 mins         >------------------------   02.52 %
-JavaScript       9 mins          -------------------------   01.93 %
-TSConfig         2 mins          -------------------------   00.46 %
+Python           3 hrs 55 mins   >>>>>>>>>>>--------------   45.27 %
+TypeScript       1 hr 27 mins    >>>>---------------------   16.87 %
+Astro            1 hr 5 mins     >>>----------------------   12.52 %
+Markdown         1 hr            >>>----------------------   11.64 %
+JSON             24 mins         >------------------------   04.66 %
+CSS              14 mins         >------------------------   02.77 %
+Text             12 mins         >------------------------   02.35 %
+JavaScript       9 mins          -------------------------   01.81 %
+TSConfig         2 mins          -------------------------   00.43 %
 ```
 
 <!--END_SECTION:waka-->
