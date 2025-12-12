@@ -66,4 +66,3 @@ TSConfig         2 mins          -------------------------   00.32 %
 <!--END_SECTION:waka-->
 
 
-# Update on my Arch system coming soon (maybe if i remember)
