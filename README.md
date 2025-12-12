@@ -9,7 +9,7 @@ Fullstack Developer, Duck Enthusiast
 * 🌍  I'm based in Switzerland
 * 🖥️  Check out my portfolio at [bonomettil.dev](http://bonomettil.dev)
 * 📩  Contact me @ [lorenzo@bonomettil.dev](mailto:lorenzo@bonomettil.dev)
-* 🚀  Currently i'm working on some startup ideas and other cool stuff
+* 🚀  Currently i'm working on some startup ideas and other cool stuff and [a small blog](https://github.com/poisonlocket/the-ims-stack)
 * 🧠  I'm learning Typescript, playing around with go and just go after whatever interests me.
 * 🤝  Feel free to reach out to me if you are looking to build a Project together
 * 🛡️  Selfhost and protect your own infra, fight vendor lock in ^^ :)
