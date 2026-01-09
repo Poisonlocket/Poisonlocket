@@ -6,11 +6,11 @@ Fullstack Developer, Duck Enthusiast
 
 [![forthebadge](https://forthebadge.com/images/badges/coffee-first-meetings-later.svg)](https://forthebadge.com)
 
-* 🌍  I'm based in Switzerland
+* 🌍  I'm based in a duck pond
 * 🖥️  Check out my portfolio at [bonomettil.dev](http://bonomettil.dev)
 * 📩  Contact me @ [lorenzo@bonomettil.dev](mailto:lorenzo@bonomettil.dev)
-* 🚀  Currently i'm working on some startup ideas and other cool stuff and [a small blog](https://github.com/poisonlocket/the-ims-stack)
-* 🧠  I'm learning Typescript, playing around with go and just go after whatever interests me.
+* 🚀  Currently i'm working on some whatever im hyperfixiated on right now
+* 🧠  I'm learning some golang and cli stuffs :3
 * 🤝  Feel free to reach out to me if you are looking to build a Project together
 * 🛡️  Selfhost and protect your own infra, fight vendor lock in ^^ :)
 * 👑  Pnpm for the Win
