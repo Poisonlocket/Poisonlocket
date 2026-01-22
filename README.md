@@ -12,6 +12,10 @@ Fullstack Developer, Duck Enthusiast
 * 🚀  Currently i'm working on some whatever im hyperfixiated on right now
 * 🧠  I'm learning some golang / cli stuffs and sec / forensics :3
 * 🛡️  Selfhost and protect your own infra, fight vendor lock in :)
+* Stuff i selfhost:
+  - My own tui based git server
+  - Excalidraw
+  - My own Tool Quackstream i built while organizing a hackathon
 * 👑  Pnpm for the Win
 
 # Just remember [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
