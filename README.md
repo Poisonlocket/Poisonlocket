@@ -10,9 +10,8 @@ Fullstack Developer, Duck Enthusiast
 * 🖥️  Check out my portfolio at [bonomettil.dev](http://bonomettil.dev)
 * 📩  Contact me @ [lorenzo@bonomettil.dev](mailto:lorenzo@bonomettil.dev)
 * 🚀  Currently i'm working on some whatever im hyperfixiated on right now
-* 🧠  I'm learning some golang and cli stuffs :3
-* 🤝  Feel free to reach out to me if you are looking to build a Project together
-* 🛡️  Selfhost and protect your own infra, fight vendor lock in ^^ :)
+* 🧠  I'm learning some golang / cli stuffs and sec / forensics :3
+* 🛡️  Selfhost and protect your own infra, fight vendor lock in :)
 * 👑  Pnpm for the Win
 
 # Just remember [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
