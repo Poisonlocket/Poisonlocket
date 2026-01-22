@@ -17,6 +17,7 @@ Fullstack Developer, Duck Enthusiast
   - Excalidraw
   - My own Tool Quackstream i built while organizing a hackathon
 * 👑  Pnpm for the Win
+* I use Arch (btw), linux overall is great.
 
 # Just remember [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 ## just remember, friday is push to Prod day :)
