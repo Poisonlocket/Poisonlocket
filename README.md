@@ -52,19 +52,19 @@ Fullstack Developer, Duck Enthusiast
 <!--START_SECTION:waka-->
 
 ```python
-From: 04 January 2026 - To: 03 February 2026
+From: 05 January 2026 - To: 04 February 2026
 
-Total Time: 4 hrs 19 mins
+Total Time: 2 hrs 38 mins
 
-Python           3 hrs 27 mins   >>>>>>>>>>>>>>>>>>>>-----   80.07 %
-JavaScript       19 mins         >>-----------------------   07.49 %
-Text             13 mins         >------------------------   05.21 %
-TypeScript       7 mins          >------------------------   02.90 %
-Markdown         3 mins          -------------------------   01.48 %
-Docker           2 mins          -------------------------   01.02 %
-Bash             1 min           -------------------------   00.41 %
-HTML             0 secs          -------------------------   00.23 %
-Prisma           0 secs          -------------------------   00.14 %
+Python           1 hr 47 mins    >>>>>>>>>>>>>>>>>--------   67.55 %
+JavaScript       19 mins         >>>----------------------   12.25 %
+Text             13 mins         >>-----------------------   08.51 %
+TypeScript       7 mins          >------------------------   04.74 %
+Markdown         3 mins          >------------------------   02.42 %
+Docker           2 mins          -------------------------   01.66 %
+Bash             1 min           -------------------------   00.67 %
+HTML             0 secs          -------------------------   00.38 %
+Prisma           0 secs          -------------------------   00.22 %
 ```
 
 <!--END_SECTION:waka-->
