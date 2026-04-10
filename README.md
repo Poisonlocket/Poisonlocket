@@ -53,19 +53,19 @@ Fullstack Developer, Duck Enthusiast
 <!--START_SECTION:waka-->
 
 ```python
-From: 08 March 2026 - To: 07 April 2026
+From: 10 March 2026 - To: 09 April 2026
 
-Total Time: 10 hrs 2 mins
+Total Time: 4 hrs 18 mins
 
-C#               3 hrs 41 mins         >>>>>>>>>----------------   36.68 %
-Go               3 hrs 11 mins         >>>>>>>>-----------------   31.77 %
-Python           1 hr 57 mins          >>>>>--------------------   19.55 %
-Docker           14 mins               >------------------------   02.47 %
-Csproj           14 mins               >------------------------   02.33 %
-Markdown         11 mins               -------------------------   01.84 %
-textmate         4 mins                -------------------------   00.77 %
-XML              4 mins                -------------------------   00.72 %
-HTTP Request     3 mins                -------------------------   00.64 %
+Python           1 hr 49 mins          >>>>>>>>>>>--------------   42.32 %
+C#               1 hr 32 mins          >>>>>>>>>----------------   35.72 %
+Docker           14 mins               >------------------------   05.77 %
+Csproj           14 mins               >------------------------   05.44 %
+Markdown         5 mins                >------------------------   02.19 %
+XML              4 mins                -------------------------   01.67 %
+HTTP Request     3 mins                -------------------------   01.50 %
+Text             1 min                 -------------------------   00.61 %
+HTML             0 secs                -------------------------   00.12 %
 ```
 
 <!--END_SECTION:waka-->
