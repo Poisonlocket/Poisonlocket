@@ -6,19 +6,7 @@ Fullstack Developer, Duck Enthusiast
 
 [![forthebadge](https://forthebadge.com/images/badges/coffee-first-meetings-later.svg)](https://forthebadge.com)
 
-* 🌍  I'm based in a duck pond
-* 🖥️  Check out my portfolio at [bonomettil.dev](http://bonomettil.dev) (this is currently in rework)
-* 📩  Contact me @ [lorenzo@bonomettil.dev](mailto:lorenzo@bonomettil.dev)
-* 🚀  Currently i'm working on some whatever im hyperfixiated on right now
-* 🧠  I'm learning some golang / cli stuffs and sec / forensics :3
-* 🛡️  Selfhost and protect your own infra, fight vendor lock in :)
-* Stuff i selfhost:
-  - My own tui based git server
-  - Excalidraw
-  - My own Tool Quackstream i built while organizing a hackathon
-  - a lot more
-* 👑  Pnpm for the Win
-* I use Arch (btw), linux overall is great.
+** Its the year of the linux Desktop (trust this time) **
 
 # Just remember [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 ## just remember, friday is push to Prod day :)
