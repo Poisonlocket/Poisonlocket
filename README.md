@@ -4,9 +4,8 @@ Hi 👋 I am Lorenzo
 Fullstack Developer, Duck Enthusiast
 ---------------------------------------
 
-[![forthebadge](https://forthebadge.com/images/badges/coffee-first-meetings-later.svg)](https://forthebadge.com)
 
-** Its the year of the linux Desktop (trust this time) **
+**Its the year of the linux Desktop (trust this time)**
 
 # Just remember [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 ## just remember, friday is push to Prod day :)
