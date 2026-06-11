@@ -10,6 +10,21 @@ You are in the right place if you want to talk about open source philosophy, get
 - Chewing on cookies.
 - Ricing my Arch desktop
 
+## For recruiters and interested people, here is my Stack:
+- Astro
+- React / Nextjs
+- Angular
+- Java
+- Kotlin
+- Python
+- Some basic Go
+- Java/Typescript
+- Bash
+- Powershell
+- Docker
+- Kubernetes
+- DevOps / Building CI/CD pipelines
+
 <b>My GitHub Stats</b>
 <p>
   
