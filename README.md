@@ -8,6 +8,7 @@ You are in the right place if you want to talk about open source philosophy, get
 - Doing security labs.
 - Managing my infrastructure.
 - Chewing on cookies.
+- Ricing my Arch desktop
 
 <b>My GitHub Stats</b>
 <p>
